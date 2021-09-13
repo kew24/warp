@@ -36,5 +36,7 @@
   "JointGenotyping.huge_disk" : 2000,
 
   "JointGenotyping.gather_vcfs": false,
-  "JointGenotyping.snps_variant_recalibration_threshold": 50
+  "JointGenotyping.snps_variant_recalibration_threshold": 50,
+
+  "JointGenotyping.IndelsVariantRecalibrator.max_gaussians": 3
 }
